@@ -39,26 +39,13 @@
 
 */
 
-
-
-
-                         $url           =    "https://localhost/erb";
-
+                         $url           =    "http://local.rocket.co.in:8081/New_added/resume-builder-project-php/";
                          $domain   =    "localhost";
-
                          $keyword  =    "resume, reusume buillder, resume maker";
-
                          $sitename      =    "Easy Resume Build";
-
                          $face          =    'https://facebook.com/';
-
                          $insta         =    'https://instagram.com/';
-
                          $twitter  =    'https://twitter.com/'; 
-
                          $linkdin  =    'https://linkden.com/';
-
                          $gmail         =  'dempmail@gmail.com';
-
-
 ?>
