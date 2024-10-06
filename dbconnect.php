@@ -39,7 +39,7 @@
 
 */
 
-                         $url           =    "http://local.rocket.co.in:8081/New_added/resume-builder-project-php/";
+                         $url           =    "http://localhost/resumebuilder";
                          $domain   =    "localhost";
                          $keyword  =    "resume, reusume buillder, resume maker";
                          $sitename      =    "Easy Resume Build";
