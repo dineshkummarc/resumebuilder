@@ -10,7 +10,7 @@
                 <span class="icon-bar"></span>
             </button>
              <a href="<?php echo 'https://'.$domain ?>" class="logolink">
-              <img src="/img/icon-cv.svg" class="logo">&nbsp;
+              <img src="./img/icon-cv.svg" class="logo">&nbsp;
               <span class="h4">Easy Resume </span>
               <span class="build h4">Build </span>  
              </a>
