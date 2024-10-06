@@ -19,21 +19,13 @@
                     $rowdata = mysqli_fetch_array($result);
 
 					$url 		= 	$rowdata['url'];
-
 					$domain 	= 	"localhost";
-
 					$keyword 	= 	$rowdata['keyword'];
-
 					$sitename 	= 	$rowdata['sitename'];
-
 					$face 		= 	$rowdata['facebook'];
-
 					$insta 		= 	$rowdata['instagram'];
-
 					$twitter 	= 	$rowdata['twitter'];
-
 					$linkdin 	= 	$rowdata['linkden'];
-
 					$gmail		=   $rowdata['gmail'];
 
 */
