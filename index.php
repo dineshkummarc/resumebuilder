@@ -84,7 +84,7 @@
     <div class="row">
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
             <picture class="icons">
-                 <img  width="20"  height="30" src="/img/icon-cv.svg" alt="icon-cv">
+                 <img  width="20"  height="30" src="./img/icon-cv.svg" alt="icon-cv">
             </picture>
             <br><br><br>
             <span class="text-center h4 tbold">
