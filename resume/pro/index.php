@@ -342,8 +342,9 @@ if (isset($_FILES['pic'])) {
 
 
   <div style="text-align: center;" >
-  <a onclick="myprint()" class="btn btn-suc"><i class="fa fa-print"></i> Print</a>&nbsp;&nbsp; 
-  <a style="display: none;" onclick="mydownload()" class="btn btn-in"><i class="fa fa-download"></i>&nbsp;Downlaod</a>
+  <a onclick="myprint()" class="btn btn-suc"><i class="fa fa-print"></i> Print</a>&nbsp;&nbsp;
+  <a style="display: none;" onclick="mydownload()" class="btn btn-in"><i class="fa fa-download"></i>&nbsp;Downlaod</a>&nbsp;&nbsp;
+  <a style="display: none;" onclick="" class="btn btn-in"><i class="fa fa-cancel"></i>&nbsp;Cancel</a>
   </div>
 
 <br>
