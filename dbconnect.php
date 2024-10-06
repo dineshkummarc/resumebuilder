@@ -1,6 +1,5 @@
 <?php
 
-
 /*                    // Database Connection
                     $host = "localhost";
                     $db_name = "resume";
@@ -20,45 +19,24 @@
                     $rowdata = mysqli_fetch_array($result);
 
 					$url 		= 	$rowdata['url'];
-
 					$domain 	= 	"localhost";
-
 					$keyword 	= 	$rowdata['keyword'];
-
 					$sitename 	= 	$rowdata['sitename'];
-
 					$face 		= 	$rowdata['facebook'];
-
 					$insta 		= 	$rowdata['instagram'];
-
 					$twitter 	= 	$rowdata['twitter'];
-
 					$linkdin 	= 	$rowdata['linkden'];
-
 					$gmail		=   $rowdata['gmail'];
 
 */
 
-
-
-
-                         $url           =    "https://localhost/erb";
-
+                         $url           =    "http://localhost/resumebuilder/";
                          $domain   =    "localhost";
-
                          $keyword  =    "resume, reusume buillder, resume maker";
-
                          $sitename      =    "Easy Resume Build";
-
                          $face          =    'https://facebook.com/';
-
                          $insta         =    'https://instagram.com/';
-
                          $twitter  =    'https://twitter.com/'; 
-
                          $linkdin  =    'https://linkden.com/';
-
                          $gmail         =  'dempmail@gmail.com';
-
-
 ?>
