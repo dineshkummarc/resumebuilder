@@ -1,6 +1,5 @@
 <?php
 
-
 /*                    // Database Connection
                     $host = "localhost";
                     $db_name = "resume";
@@ -39,7 +38,7 @@
 
 */
 
-                         $url           =    "http://localhost/resumebuilder";
+                         $url           =    "http://localhost/resumebuilder/";
                          $domain   =    "localhost";
                          $keyword  =    "resume, reusume buillder, resume maker";
                          $sitename      =    "Easy Resume Build";
