@@ -9,10 +9,10 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-             <a href="<?php echo 'https://'.$domain ?>" class="logolink">
+             <a href="<?php echo 'http://'.$domain.'/resumebuilder/' ?>" class="logolink">
               <img src="./img/icon-cv.svg" class="logo">&nbsp;
               <span class="h4">Easy Resume </span>
-              <span class="build h4">Build </span>  
+              <span class="build h4">Builder</span>
              </a>
 
         </div>
