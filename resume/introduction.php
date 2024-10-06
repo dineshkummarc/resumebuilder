@@ -62,7 +62,7 @@
       <div class="col-md-3 col-sm-3">
             <div class="text-center bd">
                   <span style="font-size: 20px;">1</span><br>
-                  <img  width="130"  height="240" src="/img/icon-cv2.svg" alt="icon-cv" >
+                  <img  width="130"  height="240" src="./img/icon-cv2.svg" alt="icon-cv" >
             </div>
             <div class="text-center">
                   <br>
@@ -74,7 +74,7 @@
             
             <div class="text-center bd">
                   <span style="font-size: 20px;">2</span><br>
-                  <img  width="150"  height="240" src="/img/icon-build.svg" alt="icon-cv" >
+                  <img  width="150"  height="240" src="./img/icon-build.svg" alt="icon-cv" >
             </div>
             <div class="text-center">
                   <br>
@@ -86,7 +86,7 @@
       <div class="col-md-3 col-sm-3" style="margin-left: 25px;">
             <div class="text-center bd">
                   <span style="font-size: 20px;">3</span><br>
-                  <img  width="150"  height="240" src="/img/icon-download2.svg" alt="icon-cv" >
+                  <img  width="150"  height="240" src="./img/icon-download2.svg" alt="icon-cv" >
             </div>
             <div class="text-center">
                   <br>
